@@ -1,0 +1,112 @@
+{
+    "http://localhost:8080/": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">",
+            "<input type=\"hidden\" name=\"MAX_FILE_SIZE\" value=\"30000\">",
+            "<input name=\"userfile\" type=\"file\">",
+            "<input name=\"name\" type=\"text\">",
+            "<input type=\"submit\" value=\"Send File\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/users/home.php": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">",
+            "<input type=\"text\" name=\"username\">",
+            "<input type=\"password\" name=\"password\">",
+            "<input type=\"submit\" value=\"login\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/pictures/upload.php": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">",
+            "<input type=\"text\" name=\"username\">",
+            "<input type=\"password\" name=\"password\">",
+            "<input type=\"submit\" value=\"login\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/pictures/recent.php": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/guestbook.php": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">",
+            "<input type=\"text\" name=\"name\">",
+            "<input type=\"submit\" value=\"Submit\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/users/login.php": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">",
+            "<input type=\"text\" name=\"username\">",
+            "<input type=\"password\" name=\"password\">",
+            "<input type=\"submit\" value=\"login\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/users/register.php": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">",
+            "<input type=\"text\" name=\"username\">",
+            "<input type=\"text\" name=\"firstname\">",
+            "<input type=\"text\" name=\"lastname\">",
+            "<input type=\"password\" name=\"password\">",
+            "<input type=\"password\" name=\"againpass\">",
+            "<input type=\"submit\" value=\"Create Account!\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/users/sample.php?userid=1": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/calendar.php": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/admin/index.php?page=login": {
+        "inputs": [
+            "<input type=\"text\" name=\"adminname\">",
+            "<input type=\"password\" name=\"password\">",
+            "<input type=\"submit\" value=\"submit\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    },
+    "http://localhost:8080/tos.php": {
+        "inputs": [
+            "<input id=\"query2\" name=\"query\" size=\"15\" style=\"padding: 2px; font-size: 16px; text-decoration:none;border:none;vertical-align:middle;\" type=\"text\" value=\"\">",
+            "<input src=\"/images/search_button_white.gif\" type=\"image\" style=\"border: 0pt none ; position: relative; top: 0px;vertical-align:middle;margin-left: 1em;\">"
+        ],
+        "buttons": [],
+        "login_required": true
+    }
+}

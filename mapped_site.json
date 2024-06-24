@@ -1,0 +1,13 @@
+[
+    "http://localhost:8080/guestbook.php",
+    "http://localhost:8080/",
+    "http://localhost:8080/calendar.php",
+    "http://localhost:8080/tos.php",
+    "http://localhost:8080/pictures/recent.php",
+    "http://localhost:8080/users/home.php",
+    "http://localhost:8080/users/sample.php?userid=1",
+    "http://localhost:8080/pictures/upload.php",
+    "http://localhost:8080/admin/index.php?page=login",
+    "http://localhost:8080/users/login.php",
+    "http://localhost:8080/users/register.php"
+]
